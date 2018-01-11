@@ -5,7 +5,7 @@
 [![Documentation Status](https://img.shields.io/badge/specification-latest-brightgreen.svg)](http://specification.glportal.de/en/latest/?badge=latest)
 
 Donate Bitcoin to 1JxrwJZgV9qBeEPH7BDF9qLJPSDcp6fqxz
-# GlPortal
+# Radix FPS-Demo
 
 > For instructions on how to compile the game please read the [compile guide](COMPILE.md).
    
